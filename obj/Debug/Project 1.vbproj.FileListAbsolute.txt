@@ -1,0 +1,14 @@
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe.config
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.exe
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.pdb
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\bin\Debug\Project 1.xml
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.vbprojResolveAssemblyReference.cache
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Form1.resources
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Form2.resources
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Resources.resources
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.vbproj.GenerateResource.Cache
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.exe
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.xml
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project 1.pdb
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.AboutBox1.resources
+c:\users\new\documents\visual studio 2015\Projects\Project 1\Project 1\obj\Debug\Project_1.Form3.resources
